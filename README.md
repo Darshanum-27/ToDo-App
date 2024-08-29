@@ -1,6 +1,6 @@
-# Take Home Assignment
+# Personal Project to revise React
 
-This project is a simple web application developed to demonstrate frontend and backend connection using React.js (frontend) and Java Spring Boot (backend).
+Simple ToDo app to refresh knowledge on react concepts like hooks.
 
 ## Demo
 [LINK](https://darshanum-27.github.io/ToDo-App/)
