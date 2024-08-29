@@ -16,8 +16,6 @@ This project is a simple web application developed to demonstrate frontend and b
 
 **Frontend:** React
 
-**Backend:** Django Framework
-
 **Cloud Technology:** Amazon Web Services
 
 
