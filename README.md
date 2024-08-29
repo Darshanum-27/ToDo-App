@@ -16,9 +16,6 @@ Simple ToDo app to refresh knowledge on react concepts like hooks.
 
 **Frontend:** React
 
-**Cloud Technology:** Amazon Web Services
-
-
 
 ## Authors
 
